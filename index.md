@@ -1,7 +1,4 @@
 <div class="test">Test in een Div</div>
-<style>
-.test {border 1px solid #000000;}
-</style>
 
 ## BLOG WORKSHOPS
 
