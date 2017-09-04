@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## BLOG WORKSHOPS
 
-You can use the [editor on GitHub](https://github.com/bjoziasse/DesignChallenge-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Kort overzicht van de content van de workshops Bloggen.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Content
 
-### Markdown
+De inhoud van de workshops Bloggen zal gaan over content en vorm. Voor de vorm hebben we gekozen om Markdown te gebruiken. Hiermee zetten we de eerste stappen om content driven te bloggen en een website vorm te geven. We gaan steeds dieper in in de engine achter de website om onze eigen identiteit vorm te geven.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Het gebruik van **markdown** zorgt ervoor dat we, tijdens het maken van de content, op een simpele en snelle manier opmaak kunnen meegeven, onafhankelijk van het thema voor de website. Hieronder een aantal voorbeelden.
 
 ```markdown
 Syntax highlighted code block
@@ -26,12 +26,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Voor meer informatie kan je kijken op: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+###Platform
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bjoziasse/DesignChallenge-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Het platform waarop het blog gehost gaat worden is [Git Pages](https://pages.github.com/). Dit geeft een overichtelijke sturctuur en een online mogelijkheid van updaten. Hiervoor is een [Git Hub](https://github.com) account nodig. Daarna kan je ongelimiteerd pagina's maken met markdown.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+###
