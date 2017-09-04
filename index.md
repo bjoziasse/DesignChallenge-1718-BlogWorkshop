@@ -28,8 +28,22 @@ Syntax highlighted code block
 
 Voor meer informatie kan je kijken op: [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-###Platform
+### Platform
 
 Het platform waarop het blog gehost gaat worden is [Git Pages](https://pages.github.com/). Dit geeft een overichtelijke sturctuur en een online mogelijkheid van updaten. Hiervoor is een [Git Hub](https://github.com) account nodig. Daarna kan je ongelimiteerd pagina's maken met markdown.
 
-###
+### Inhoud workshops
+
+Tijdens de workshops gaan we de volgende onderdelen behandelen:
+- Markdown
+- Account Git Hub en Git Pages
+- Opzetten eerste blog
+- Samenwerken op Git Hub
+- Vormgeven van de pages
+
+#### Vervolg workshops
+
+In vervolg workshops gaan we in op:
+- Meer controle op de opmaak
+- Nieuwe features
+- Zelf programmeren
