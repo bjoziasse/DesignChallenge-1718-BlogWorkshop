@@ -1,8 +1,3 @@
----
----
-
-@import "{{ site.theme }}";
-
 ## BLOG WORKSHOPS
 
 Kort overzicht van de content van de workshops Bloggen.
