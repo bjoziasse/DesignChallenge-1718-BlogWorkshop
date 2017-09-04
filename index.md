@@ -1,4 +1,7 @@
-<div class="test">Test in een Div</div>
+---
+---
+
+@import "{{ site.theme }}";
 
 ## BLOG WORKSHOPS
 
